@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Alexandra Stoll - misc</title><link href="https://alexandrastoll.github.io/" rel="alternate"></link><link href="https://alexandrastoll.github.io/feeds/misc.atom.xml" rel="self"></link><id>https://alexandrastoll.github.io/</id><updated>2025-06-01T00:00:00+02:00</updated><entry><title>About</title><link href="https://alexandrastoll.github.io/posts/2025/06/01/About/" rel="alternate"></link><published>2025-06-01T00:00:00+02:00</published><updated>2025-06-01T00:00:00+02:00</updated><author><name>Alexandra Stoll</name></author><id>tag:alexandrastoll.github.io,2025-06-01:/posts/2025/06/01/About/</id><summary type="html">&lt;h2&gt;About me&lt;/h2&gt;
+&lt;p&gt;I am a physician and researcher working at the intersection of artificial intelligence and medical image analysis, with a particular interest in deep learning for clinical applications. My background combines medical training with experience in computational pathology, and I am increasingly focused on multimodal foundation models and their …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;About me&lt;/h2&gt;
+&lt;p&gt;I am a physician and researcher working at the intersection of artificial intelligence and medical image analysis, with a particular interest in deep learning for clinical applications. My background combines medical training with experience in computational pathology, and I am increasingly focused on multimodal foundation models and their potential across different medical imaging domains.&lt;/p&gt;
+&lt;p&gt;I received my medical degree from Goethe University Frankfurt am Main in 2024.
+My medical doctoral thesis, supervised by Prof. Peter J. Wild and Prof. Jochen Triesch, was conducted jointly at Dr. Senckenberg Institute for Pathology (SIP) and Frankfurt Institute for Advanced Studies (FIAS). The project focused on predicting and characterizing molecular subtypes of muscle-invasive bladder cancer using deep learning methods, including foundation models and attention-based multiple instance learning.
+The thesis is currently undergoing final minor corrections prior to submission and defense.&lt;/p&gt;</content><category term="misc"></category></entry><entry><title>Papers and Conferences</title><link href="https://alexandrastoll.github.io/posts/2025/06/01/papers/" rel="alternate"></link><published>2025-06-01T00:00:00+02:00</published><updated>2025-06-01T00:00:00+02:00</updated><author><name>Alexandra Stoll</name></author><id>tag:alexandrastoll.github.io,2025-06-01:/posts/2025/06/01/papers/</id><summary type="html">&lt;h2&gt;Selected Publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Stoll, A. K.&lt;/strong&gt;, Koll, F. J., Eckstein, M., Reis, H., Flinner, N., Wild, P. J., &amp;amp; Triesch, J. &lt;br&gt;
+  Histomolekulare Klassifikation des Urothelkarzinoms der Harnblase: vom histologischen Phänotyp zum Genotyp und zurück.&lt;br&gt;
+  [Histomolecular classification of urothelial carcinoma of the urinary bladder: from histological phenotype to genotype and back].&lt;br&gt;
+&lt;em&gt;Pathologie&lt;/em&gt;, 2024 …&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h2&gt;Selected Publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Stoll, A. K.&lt;/strong&gt;, Koll, F. J., Eckstein, M., Reis, H., Flinner, N., Wild, P. J., &amp;amp; Triesch, J. &lt;br&gt;
+  Histomolekulare Klassifikation des Urothelkarzinoms der Harnblase: vom histologischen Phänotyp zum Genotyp und zurück.&lt;br&gt;
+  [Histomolecular classification of urothelial carcinoma of the urinary bladder: from histological phenotype to genotype and back].&lt;br&gt;
+&lt;em&gt;Pathologie&lt;/em&gt;, 2024;45(2):106-114. doi:10.1007/s00292-024-01305-w &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mayer, R. S., Kinzler, M. N., &lt;strong&gt;Stoll, A. K.&lt;/strong&gt;, Gretser, S., Ziegler, P. K., Saborowski, A., ... &amp;amp; Flinner, N.&lt;br&gt;
+  Die Modelltransferierbarkeit von KI in der digitalen Pathologie: Potenzial und Realität.&lt;br&gt;
+  [The model transferability of AI in digital pathology: potential and reality].&lt;br&gt;
+&lt;em&gt;Pathologie&lt;/em&gt;, 2024;45(2):124-132. doi:10.1007/s00292-024-01299-5&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Flinner, N., Gretser, S., Quaas, A., Bankov, K., &lt;strong&gt;Stoll, A. K.&lt;/strong&gt;, Heckmann, L. E., &lt;em&gt;et al.&lt;/em&gt; (2022).&lt;br&gt;
+  Deep learning based on hematoxylin–eosin staining outperforms immunohistochemistry in predicting molecular subtypes of gastric adenocarcinoma.&lt;br&gt;
+&lt;em&gt;The Journal of Pathology&lt;/em&gt;, 2022;257(2), 218–226. doi:10.1002/path.5879&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Conferences&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;4th Rhein-Main Cancer Retreat, March 2023 – Poster Presentation&lt;/li&gt;
+&lt;li&gt;Annual Congress of the German Society of Pathology, June 2023 – Oral Presentation&lt;/li&gt;
+&lt;li&gt;Helmholtz AI Conference, June 2025, Karlsruhe – Participant&lt;/li&gt;
+&lt;/ul&gt;</content><category term="misc"></category></entry></feed>
